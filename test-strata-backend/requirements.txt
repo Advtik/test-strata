@@ -1,9 +1,8 @@
-fastapi==0.136.0
-uvicorn==0.29.0
-python-dotenv==1.2.2
-redis==7.4.0
-pydantic==2.7.0
-pydantic-settings==2.2.0
-python-multipart==0.0.27
-orjson==3.11.9
-ujson==5.12.1
+fastapi
+uvicorn
+redis
+python-dotenv
+pydantic-settings
+python-multipart
+orjson
+ujson
