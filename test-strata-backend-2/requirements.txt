@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+redis
+python-dotenv
+pydantic-settings
+python-multipart
+orjson
+ujson
