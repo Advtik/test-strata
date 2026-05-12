@@ -25,7 +25,7 @@ def toggle():
     }
 
 
-@users_router.get("/")
+@users_router.get("")
 def get_users():
 
     if is_down:
